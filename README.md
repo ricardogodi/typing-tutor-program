@@ -1,7 +1,7 @@
 # Typing Tutor Program
 
 ## Description
-· Typing Tutor Program: Developed a C++ application designed to challenge users to type words accurately within specific time limits. The application features a menu-driven interface that offers options to practice with either commonly misspelled words or a random selection from a large dictionary. Key functionalities include word lookup using binary search and dynamic word length adjustments.
+Typing Tutor Program: Developed a C++ application designed to challenge users to type words accurately within specific time limits. The application features a menu-driven interface that offers options to practice with either commonly misspelled words or a random selection from a large dictionary. Key functionalities include word lookup using binary search and dynamic word length adjustments.
 
 ## Files Included
 - **dictionary.txt**: Contains a large list of dictionary words used for the typing tests.
